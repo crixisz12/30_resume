@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+body {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Kanit', sans-serif;
+}
+.contact{
+    width: 400px;
+    height: 1350px;
+    background-color: rgb(22, 22, 22);
+}
+.profile {
+    margin: 0px 50px 50px 50px;
+    padding-bottom: 1px;
+    background-color: rgb(255, 255, 255);
+}
+.img-profile{
+    margin: 0px 50px 50px 50px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+}
+.contact{
+    color: white;
+}
+.contactus{
+    color: white;
+    float: right;
+}
+.contactus h1{
+    margin-right: 40px;
+}
+.boarder{
+    width: 300px;
+    float: left;
+    padding-bottom: 30px;
+}
+.boarder h1{
+    padding: 5px;
+    width: 200px;
+    height: 60px;
+    background-color: rgb(255, 196, 0);
+}
+.boarder p{
+    margin-left: 50px;
+    width: 250px;
+    font-size: 20px;
+}
+.name{
+    padding: 5px;
+    background-color: rgb(255, 196, 0);
+}
