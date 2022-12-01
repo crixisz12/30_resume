@@ -5,20 +5,7 @@ body {
     font-family: 'Kanit', sans-serif;
 }
 .contact{
-    width: 400px;
-    height: 1350px;
     background-color: rgb(22, 22, 22);
-}
-.profile {
-    margin: 0px 50px 50px 50px;
-    padding-bottom: 1px;
-    background-color: rgb(255, 255, 255);
-}
-.img-profile{
-    margin: 0px 50px 50px 50px;
-    width: 200px;
-    height: 200px;
-    background-color: rgb(255, 255, 255);
 }
 .contact{
     color: white;
@@ -46,7 +33,24 @@ body {
     width: 250px;
     font-size: 20px;
 }
-.name{
-    padding: 5px;
+.portfolio-header{
+    margin-top: 50px;
+    height: 150px;
     background-color: rgb(255, 196, 0);
+}
+#name{
+    margin-left: 50px;
+    padding-top: 20px;
+}
+.col-md-8{
+    margin: 0%;
+    padding: 0%;
+}
+.col-md-4{
+    margin: 0%;
+    padding: 0%;
+}
+#portfolio-body{
+    margin-top: 50px;
+    margin-left: 20px;
 }
