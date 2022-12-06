@@ -24,7 +24,7 @@ body {
 }
 .boarder h1{
     padding: 5px;
-    width: 200px;
+    width: 250px;
     height: 60px;
     background-color: rgb(255, 196, 0);
 }
@@ -53,4 +53,38 @@ body {
 #portfolio-body{
     margin-top: 50px;
     margin-left: 20px;
+}
+.img-bg {
+    background-image: url("hero.png");
+    background-size: cover;
+    height: 1080px;
+    padding-top: 380px;
+    padding-left: 200px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: lighter;
+}
+.kaido{
+    margin: 0%;
+    padding: 20px 20px 20px 20px;
+    background-color: white;
+}
+.luffy{
+    margin: 0%;
+    padding: 20px 20px 20px 20px;
+    background-color: white;
+}
+.footer{
+    background-color: white;
+    text-align: center;
+}
+.wallpaperstraw{
+    padding: 20px 20px 20px 20px;
+}
+.mobile{
+    padding-top: 120px;
+}
+.copyright{
+    padding-top: 120px;
+    color: rgb(165, 165, 165);
 }
