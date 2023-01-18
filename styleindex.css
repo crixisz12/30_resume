@@ -14,7 +14,7 @@ body {
 .typewriter h1{
     font-family: 'Archivo Black', sans-serif;
     color: white;
-    font-size: 60px;
+    font-size: 40px;
     margin-bottom: 50px;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .15em solid orange; /* The typwriter cursor */
